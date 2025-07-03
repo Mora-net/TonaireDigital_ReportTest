@@ -14,5 +14,6 @@
            @"server=DESKTOP-KPD5D9S\MSSQLSEVER2022;database=dbC#;
             user id=immora; password=mora123; encrypt=false");
 3. Report output
+   https://github.com/Mora-net/TonaireDigital_ReportTest/blob/master/Screenshot%202025-07-03%20220030.png?raw=true
    
     
